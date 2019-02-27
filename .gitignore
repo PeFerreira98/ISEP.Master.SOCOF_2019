@@ -1,5 +1,6 @@
-#inteliJ
+#ide
 .idea/
+.vscode/
 
 # Compiled class file
 *.class
